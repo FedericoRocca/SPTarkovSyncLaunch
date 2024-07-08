@@ -1,0 +1,17 @@
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\bin\Debug\net6.0-windows\SPTarkovSyncLaunch.exe
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\bin\Debug\net6.0-windows\SPTarkovSyncLaunch.deps.json
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\bin\Debug\net6.0-windows\SPTarkovSyncLaunch.runtimeconfig.json
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\bin\Debug\net6.0-windows\SPTarkovSyncLaunch.dll
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\bin\Debug\net6.0-windows\SPTarkovSyncLaunch.pdb
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\obj\Debug\net6.0-windows\SPTarkovSyncLaunch.mainForm.resources
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\obj\Debug\net6.0-windows\SPTarkovSyncLaunch.csproj.GenerateResource.cache
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\obj\Debug\net6.0-windows\SPTarkovSyncLaunch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\obj\Debug\net6.0-windows\SPTarkovSyncLaunch.AssemblyInfoInputs.cache
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\obj\Debug\net6.0-windows\SPTarkovSyncLaunch.AssemblyInfo.cs
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\obj\Debug\net6.0-windows\SPTarkovSyncLaunch.csproj.CoreCompileInputs.cache
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\obj\Debug\net6.0-windows\SPTarkovSyncLaunch.dll
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\obj\Debug\net6.0-windows\refint\SPTarkovSyncLaunch.dll
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\obj\Debug\net6.0-windows\SPTarkovSyncLaunch.pdb
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\obj\Debug\net6.0-windows\SPTarkovSyncLaunch.genruntimeconfig.cache
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\obj\Debug\net6.0-windows\ref\SPTarkovSyncLaunch.dll
+C:\Users\Federico\Desktop\Repos\SPTarkovSyncLaunch\SPTarkovSyncLaunch\bin\Debug\net6.0-windows\SPTarkovSyncLaunch.dll.config

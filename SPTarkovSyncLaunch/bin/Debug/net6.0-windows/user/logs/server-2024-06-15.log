@@ -1,0 +1,486 @@
+[2024-06-15T03:02:27.633Z] error: 	The application had a critical error and failed to run
+[2024-06-15T03:02:27.634Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T03:02:27.637Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T03:02:27.632Z] debug: 	Importing configs...
+[2024-06-15T03:03:53.238Z] error: 	The application had a critical error and failed to run
+[2024-06-15T03:03:53.239Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T03:03:53.243Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T03:03:53.237Z] debug: 	Importing configs...
+[2024-06-15T03:06:05.073Z] error: 	The application had a critical error and failed to run
+[2024-06-15T03:06:05.074Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T03:06:05.078Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T03:06:05.072Z] debug: 	Importing configs...
+[2024-06-15T03:12:38.912Z] error: 	The application had a critical error and failed to run
+[2024-06-15T03:12:38.912Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T03:12:38.916Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T03:12:38.910Z] debug: 	Importing configs...
+[2024-06-15T03:12:58.369Z] error: 	The application had a critical error and failed to run
+[2024-06-15T03:12:58.370Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T03:12:58.374Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T03:12:58.368Z] debug: 	Importing configs...
+[2024-06-15T21:35:00.979Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:35:00.977Z] debug: 	Importing configs...
+[2024-06-15T21:35:00.980Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:35:00.984Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:35:21.836Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:35:21.837Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:35:21.841Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:35:21.834Z] debug: 	Importing configs...
+[2024-06-15T21:40:40.719Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:40:40.720Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:40:40.723Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:40:40.717Z] debug: 	Importing configs...
+[2024-06-15T21:41:16.902Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:41:16.903Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:41:16.907Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:41:16.901Z] debug: 	Importing configs...
+[2024-06-15T21:41:26.192Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:41:26.193Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:41:26.196Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:41:26.190Z] debug: 	Importing configs...
+[2024-06-15T21:43:15.029Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:43:15.030Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:43:15.034Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:43:15.027Z] debug: 	Importing configs...
+[2024-06-15T21:44:49.619Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:44:49.619Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:44:49.623Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:44:49.617Z] debug: 	Importing configs...
+[2024-06-15T21:46:25.677Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:46:25.677Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:46:25.681Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:46:25.675Z] debug: 	Importing configs...
+[2024-06-15T21:50:34.233Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:50:34.233Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:50:34.237Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:50:34.231Z] debug: 	Importing configs...
+[2024-06-15T21:50:57.889Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:50:57.889Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:50:57.893Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:50:57.887Z] debug: 	Importing configs...
+[2024-06-15T21:51:33.553Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:51:33.554Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:51:33.558Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:51:33.552Z] debug: 	Importing configs...
+[2024-06-15T21:52:55.385Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:52:55.385Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:52:55.389Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:52:55.383Z] debug: 	Importing configs...
+[2024-06-15T21:54:40.204Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:54:40.204Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:54:40.208Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:54:40.202Z] debug: 	Importing configs...
+[2024-06-15T21:55:37.838Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:55:37.839Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:55:37.843Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:55:37.837Z] debug: 	Importing configs...
+[2024-06-15T21:55:50.145Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:55:50.145Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:55:50.149Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:55:50.143Z] debug: 	Importing configs...
+[2024-06-15T21:56:17.578Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:56:17.578Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:56:17.582Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:56:17.576Z] debug: 	Importing configs...
+[2024-06-15T21:56:59.644Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:56:59.645Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:56:59.650Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:56:59.642Z] debug: 	Importing configs...
+[2024-06-15T21:57:14.512Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:57:14.512Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:57:14.516Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:57:14.510Z] debug: 	Importing configs...
+[2024-06-15T21:57:24.359Z] error: 	The application had a critical error and failed to run
+[2024-06-15T21:57:24.360Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T21:57:24.364Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T21:57:24.358Z] debug: 	Importing configs...
+[2024-06-15T22:11:38.481Z] error: 	The application had a critical error and failed to run
+[2024-06-15T22:11:38.482Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T22:11:38.486Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T22:11:38.479Z] debug: 	Importing configs...
+[2024-06-15T22:14:21.084Z] error: 	The application had a critical error and failed to run
+[2024-06-15T22:14:21.084Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T22:14:21.088Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T22:14:21.082Z] debug: 	Importing configs...
+[2024-06-15T22:15:06.082Z] error: 	The application had a critical error and failed to run
+[2024-06-15T22:15:06.083Z] error: 	Exception produced: Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+[2024-06-15T22:15:06.086Z] error: 	
+Stacktrace:
+ Error: Cannot inject the dependency "configServer" at position #1 of "Watermark" constructor. Reason:
+    ENOENT: no such file or directory, scandir 'Aki_Data/Server/configs/'
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:324:23
+    at Array.map (<anonymous>)
+    at C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:295:38
+    at InternalDependencyContainer.construct (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:297:11)
+    at InternalDependencyContainer.resolveRegistration (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:166:51)
+    at InternalDependencyContainer.resolve (C:\snapshot\project\node_modules\tsyringe\dist\cjs\dependency-container.js:109:33)
+    at Program.start (C:\snapshot\project\src\Program.ts:26:28)
+    at Object.<anonymous> (C:\snapshot\project\src\ide\ReleaseEntry.ts:13:9)
+    at Module._compile (pkg/prelude/bootstrap.js:1926:22)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+[2024-06-15T22:15:06.080Z] debug: 	Importing configs...

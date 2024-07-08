@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SPTarkovSyncLaunch.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="akiLauncher" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Aki.Launcher.exe</Value>
+    </Setting>
+    <Setting Name="akiServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Aki.Server.exe</Value>
+    </Setting>
+    <Setting Name="startDelay" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="closeAfterLaunch" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="servergamePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
